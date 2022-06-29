@@ -17,6 +17,10 @@
     {
       "message": "sdfdsafdasfas",
       "id": 1
+    },
+    {
+      "message": "sdfdsafdasfas",
+      "id": 2
     }
   ],
   "privatePosts": [
@@ -24,6 +28,11 @@
       "message": "asdfasdfdasfdsa2",
       "userId": 2,
       "id": 2
+    },
+    {
+      "message": "asdfasdfdasfdsa2",
+      "userId": 2,
+      "id": 3
     }
   ]
 }
