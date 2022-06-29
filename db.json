@@ -6,6 +6,24 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "renan@gmail.com",
+      "password": "$2a$10$unigQaq.jYUx3FxOPVfyj.oesPjc.gmZ6m4lFpdVIpVS9k51hGNVe",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "message": "sdfdsafdasfas",
+      "id": 1
+    }
+  ],
+  "privatePosts": [
+    {
+      "message": "asdfasdfdasfdsa2",
+      "userId": 2,
+      "id": 2
     }
   ]
 }
